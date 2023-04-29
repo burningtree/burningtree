@@ -6,7 +6,8 @@ Where can you contact or follow me?
 | --- | --- |
 | Bluesky: [`@tree.gwei.cz`](https://staging.bsky.app/profile/tree.gwei.cz) | Matrix: [`@tree:gwei.cz`](https://matrix.to/#/@tree:gwei.cz) |
 | Twitter: [`@treecz`](https://twitter.com/treecz) | Telegram: [`@treecz`](https://t.me/treecz) |
-| Mastodon: [`@tree@gwei.cz`](@tree@gwei.cz) | |
+| Farcaster: [`@tree`](https://fcast.me/tree) | |
+| Mastodon: [`@tree@gwei.cz`](https://social.gwei.cz/@tree) | |
 
 <!--
 **burningtree/burningtree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
