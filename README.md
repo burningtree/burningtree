@@ -2,12 +2,12 @@
 
 Where can you contact or follow me?
 
-| Microblogging | Communication |
-| --- | --- |
-| Bluesky: [`@tree.gwei.cz`](https://staging.bsky.app/profile/tree.gwei.cz) | Matrix: [`@tree:gwei.cz`](https://matrix.to/#/@tree:gwei.cz) |
-| Twitter: [`@treecz`](https://twitter.com/treecz) | Telegram: [`@treecz`](https://t.me/treecz) |
-| Farcaster: [`@tree`](https://fcast.me/tree) | |
-| Mastodon: [`@tree@gwei.cz`](https://social.gwei.cz/@tree) | |
+| Work | Microblogging | Communication | Entertainment | 
+| --- | --- | --- | --- |
+| Pinboard: [`u:burningtree`](https://pinboard.in/u:burningtree) | Bluesky: [`@tree.gwei.cz`](https://staging.bsky.app/profile/tree.gwei.cz) | Matrix: [`@tree:gwei.cz`](https://matrix.to/#/@tree:gwei.cz) | Trakt: [`@tree`](https://trakt.tv/users/tree) |
+| Gitea: [`git.gwei.cz/tree`](https://git.gwei.cz/tree) | Twitter: [`@treecz`](https://twitter.com/treecz) | Telegram: [`@treecz`](https://t.me/treecz) | Last.fm: [`@burning-tree`](https://www.last.fm/user/burning-tree) |
+| | Farcaster: [`@tree`](https://fcast.me/tree) | Discord: [`tree#7466`](https://discordapp.com/users/397625533283958787) | GoodReads: [`8800503-tree`](https://www.goodreads.com/user/show/8800503-tree) |
+| | Mastodon: [`@tree@gwei.cz`](https://social.gwei.cz/@tree) | | Foursquare: [`@treecz`](https://foursquare.com/treecz) |
 
 <!--
 **burningtree/burningtree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
