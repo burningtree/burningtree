@@ -25,6 +25,7 @@
 - [UTXO Prague](https://utxo.cz/) - co-founder; lead organizer (2022)
 - [EthereumZurich](https://ethereumzuri.ch/) - hackathon lead (2023)
 - [ETHBarcelona](https://ethbarcelona.com/) - hackathon advisor (2023)
+- [ETHPrague](https://ethprague.com) - judge (2022); hackathon advisor (2023)
 
 <!--
 **burningtree/burningtree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
