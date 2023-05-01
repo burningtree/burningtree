@@ -1,6 +1,6 @@
-### Hi there 👋, I'm `tree` 🌴
+## Hi there 👋, I'm `tree` 🌴
 
-Where can you contact or follow me?
+### How to follow or contact me?
 
 | Work | Microblogging | Communication | Entertainment | 
 | --- | --- | --- | --- |
@@ -8,6 +8,21 @@ Where can you contact or follow me?
 | Gitea: [`git.gwei.cz/tree`](https://git.gwei.cz/tree) | Twitter: [`@treecz`](https://twitter.com/treecz) | Telegram: [`@treecz`](https://t.me/treecz) | Last.fm: [`@burning-tree`](https://www.last.fm/user/burning-tree) |
 | | Farcaster: [`@tree`](https://fcast.me/tree) | Discord: [`tree#7466`](https://discordapp.com/users/397625533283958787) | GoodReads: [`8800503-tree`](https://www.goodreads.com/user/show/8800503-tree) |
 | | Mastodon: [`@tree@gwei.cz`](https://social.gwei.cz/@tree) | | Foursquare: [`@treecz`](https://foursquare.com/treecz) |
+
+### My projects
+
+#### Initiatives
+- [Ethereum Event Gardeners](https://about.ethevents.club/) ([@ethereumeg](https://github.com/ethereumeg)) - community fostering open and free Ethereum events
+- [Gwei.cz](http://gwei.cz/) ([@gweicz](https://github.com/gweicz)) - local Czech/Slovak Ethereum community
+- [UTXO Foundation](https://utxo.foundation/) ([@utxo-foundation](https://github.com/utxo-foundation)) - non-profit organization serving as a legal representation for hosting events
+- [Web3Privacy Now](https://web3privacy.info) ([@web3privacy](https://github.com/web3privacy)) - research & community for privacy in the Web3 industry
+
+#### Conferences & Hackathons
+- [ETHBrno](https://ethbrno.cz/) - lead organizer
+- [Web3Privacy Events](https://github.com/web3privacy/events) - lead organizer
+- [Prague Blockchain Week](http://prgblockweek.com/) - lead coordinator
+- [EthereumZurich](https://ethereumzuri.ch/) - hackathon lead
+- [ETHBarcelona](https://ethbarcelona.com/) - hackathon advisor
 
 <!--
 **burningtree/burningtree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
