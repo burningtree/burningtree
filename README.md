@@ -19,11 +19,12 @@
 - [BohemianDAO](https://bohemiandao.cz/) ([@gweicz/bohemiandao](https://github.com/gweicz/bohemiandao)) - non-profit grants DAO for local czech Ethereum projects
 
 #### Conferences & Hackathons
-- [ETHBrno](https://ethbrno.cz/) - lead organizer
-- [Web3Privacy Events](https://github.com/web3privacy/events) - lead organizer
-- [Prague Blockchain Week](http://prgblockweek.com/) - lead coordinator
-- [EthereumZurich](https://ethereumzuri.ch/) - hackathon lead
-- [ETHBarcelona](https://ethbarcelona.com/) - hackathon advisor
+- [ETHBrno](https://ethbrno.cz/) - lead organizer (2021-2023+)
+- [Web3Privacy Events](https://github.com/web3privacy/events) - lead organizer (2023+)
+- [Prague Blockchain Week](http://prgblockweek.com/) - lead coordinator (2023+)
+- [UTXO Prague](https://utxo.cz/) - lead organizer (2022)
+- [EthereumZurich](https://ethereumzuri.ch/) - hackathon lead (2023)
+- [ETHBarcelona](https://ethbarcelona.com/) - hackathon advisor (2023)
 
 <!--
 **burningtree/burningtree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
