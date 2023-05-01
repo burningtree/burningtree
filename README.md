@@ -13,8 +13,8 @@
 
 #### Initiatives
 - [Ethereum Event Gardeners](https://about.ethevents.club/) ([@ethereumeg](https://github.com/ethereumeg)) - community fostering open and free Ethereum events
-- [Gwei.cz](http://gwei.cz/) ([@gweicz](https://github.com/gweicz)) - local Czech/Slovak Ethereum community
 - [Web3Privacy Now](https://web3privacy.info) ([@web3privacy](https://github.com/web3privacy)) - research & community for privacy in the Web3 industry
+- [Gwei.cz](http://gwei.cz/) ([@gweicz](https://github.com/gweicz)) - local Czech/Slovak Ethereum community
 - [BohemianDAO](https://bohemiandao.cz/) ([@gweicz/bohemiandao](https://github.com/gweicz/bohemiandao)) - non-profit grants DAO for local czech Ethereum projects
 - [UTXO Foundation](https://utxo.foundation/) ([@utxo-foundation](https://github.com/utxo-foundation)) - non-profit organization serving as a legal backbone for events
 
