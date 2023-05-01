@@ -19,10 +19,10 @@
 - [UTXO Foundation](https://utxo.foundation/) ([utxo-foundation](https://github.com/utxo-foundation)) - non-profit organization serving as a legal backbone for events
 
 #### Conferences & Hackathons
-- [ETHBrno](https://ethbrno.cz/) - lead organizer (2021-2023+)
-- [Web3Privacy Events](https://github.com/web3privacy/events) - lead organizer (2023+)
+- [ETHBrno](https://ethbrno.cz/) - co-founder, lead organizer (2021-2023+)
+- [Web3Privacy Events](https://github.com/web3privacy/events) - co-founder, lead organizer (2023+)
 - [Prague Blockchain Week](http://prgblockweek.com/) - lead coordinator (2023+)
-- [UTXO Prague](https://utxo.cz/) - lead organizer (2022)
+- [UTXO Prague](https://utxo.cz/) - co-founder, lead organizer (2022)
 - [EthereumZurich](https://ethereumzuri.ch/) - hackathon lead (2023)
 - [ETHBarcelona](https://ethbarcelona.com/) - hackathon advisor (2023)
 
