@@ -22,10 +22,10 @@
 - [ETHBrno](https://ethbrno.cz/) - co-founder; lead organizer (2021-2023+)
 - [Web3Privacy Events](https://github.com/web3privacy/events) - co-founder; lead organizer (2023+)
 - [Prague Blockchain Week](http://prgblockweek.com/) - lead coordinator (2023+)
-- [UTXO Prague](https://utxo.cz/) - co-founder; lead organizer (2022)
 - [EthereumZurich](https://ethereumzuri.ch/) - hackathon lead (2023)
 - [ETHBarcelona](https://ethbarcelona.com/) - hackathon advisor (2023)
 - [ETHPrague](https://ethprague.com) - hackathon advisor (2023)
+- [UTXO Prague](https://utxo.cz/) - co-founder; lead organizer (2022)
 
 <!--
 **burningtree/burningtree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
