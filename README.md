@@ -4,9 +4,9 @@
 
 | Work | Microblogging | Communication | Entertainment | 
 | --- | --- | --- | --- |
-| Pinboard: [`u:burningtree`](https://pinboard.in/u:burningtree) | Bluesky: [`@tree.gwei.cz`](https://staging.bsky.app/profile/tree.gwei.cz) | Matrix: [`@tree:gwei.cz`](https://matrix.to/#/@tree:gwei.cz) | Trakt: [`@tree`](https://trakt.tv/users/tree) |
-| Gitea: [`git.gwei.cz/tree`](https://git.gwei.cz/tree) | Twitter: [`@treecz`](https://twitter.com/treecz) | Telegram: [`@treecz`](https://t.me/treecz) | Last.fm: [`@burning-tree`](https://www.last.fm/user/burning-tree) |
-| | Farcaster: [`@tree`](https://fcast.me/tree) | Discord: [`tree#7466`](https://discordapp.com/users/397625533283958787) | GoodReads: [`8800503-tree`](https://www.goodreads.com/user/show/8800503-tree) |
+| GitHub: [`@burningtree`](https://github.com/burningtree) | Bluesky: [`@tree.gwei.cz`](https://staging.bsky.app/profile/tree.gwei.cz) | Matrix: [`@tree:gwei.cz`](https://matrix.to/#/@tree:gwei.cz) | Trakt: [`@tree`](https://trakt.tv/users/tree) |
+| Pinboard: [`u:burningtree`](https://pinboard.in/u:burningtree) | Twitter: [`@treecz`](https://twitter.com/treecz) | Telegram: [`@treecz`](https://t.me/treecz) | Last.fm: [`@burning-tree`](https://www.last.fm/user/burning-tree) |
+| Gitea: [`git.gwei.cz/tree`](https://git.gwei.cz/tree) | Farcaster: [`@tree`](https://fcast.me/tree) | Discord: [`tree#7466`](https://discordapp.com/users/397625533283958787) | GoodReads: [`8800503-tree`](https://www.goodreads.com/user/show/8800503-tree) |
 | | Mastodon: [`@tree@gwei.cz`](https://social.gwei.cz/@tree) | | Foursquare: [`@treecz`](https://foursquare.com/treecz) |
 
 ### My projects
