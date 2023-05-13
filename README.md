@@ -18,9 +18,10 @@
 - 💰 [BohemianDAO](https://bohemiandao.cz/) - non-profit grants DAO for local czech Ethereum projects
 - 🏛️ [UTXO Foundation](https://utxo.foundation/) - non-profit organization serving as a legal backbone for events
 
-#### Hackathons & Conferences
+#### Hackathons, Conferences and other events
 - [ETHBrno](https://ethbrno.cz/) - co-founder; lead organizer (2021-2023+)
 - [Web3Privacy Events](https://github.com/web3privacy/events) - co-founder; lead organizer (2023+)
+- [L2Loft](https://l2loft.com) - co-fouder; lead organizer (2023+)
 - [EthereumZurich](https://ethereumzuri.ch/) - hackathon lead (2023)
 - [ETHBarcelona](https://ethbarcelona.com/) - hackathon advisor (2023)
 - [ETHPrague](https://ethprague.com) - hackathon advisor (2023)
