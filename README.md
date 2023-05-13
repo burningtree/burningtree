@@ -2,9 +2,11 @@
 
 ### How to follow or contact me?
 
+DID: `did:plc:524tuhdhh3m7li5gycdn6boe` ([did:plc](https://atproto.com/specs/did-plc))
+
 | Work | Microblogging | Communication | Entertainment | 
 | --- | --- | --- | --- |
-| GitHub: [`@burningtree`](https://github.com/burningtree) | Bluesky: [`@tree.gwei.cz`](https://staging.bsky.app/profile/tree.gwei.cz) | Matrix: [`@tree:gwei.cz`](https://matrix.to/#/@tree:gwei.cz) | Trakt: [`@tree`](https://trakt.tv/users/tree) |
+| GitHub: [`@burningtree`](https://github.com/burningtree) | Bluesky: [`@tree.fail`](https://staging.bsky.app/profile/did:plc:524tuhdhh3m7li5gycdn6boe) | Matrix: [`@tree:gwei.cz`](https://matrix.to/#/@tree:gwei.cz) | Trakt: [`@tree`](https://trakt.tv/users/tree) |
 | Pinboard: [`u:burningtree`](https://pinboard.in/u:burningtree) | Twitter: [`@treecz`](https://twitter.com/treecz) | Telegram: [`@treecz`](https://t.me/treecz) | Last.fm: [`@burning-tree`](https://www.last.fm/user/burning-tree) |
 | Gitea: [`git.gwei.cz/tree`](https://git.gwei.cz/tree) | Farcaster: [`@tree`](https://fcast.me/tree) | Discord: [`tree#7466`](https://discordapp.com/users/397625533283958787) | GoodReads: [`8800503-tree`](https://www.goodreads.com/user/show/8800503-tree) |
 | | Mastodon: [`@tree@gwei.cz`](https://social.gwei.cz/@tree) | | Foursquare: [`@treecz`](https://foursquare.com/treecz) |
