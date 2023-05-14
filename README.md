@@ -26,8 +26,6 @@ DID: `did:plc:524tuhdhh3m7li5gycdn6boe` ([did:plc](https://atproto.com/specs/did
 - 🏛️ [UTXO Foundation](https://utxo.foundation/) - non-profit organization serving as a legal backbone for events
 
 ### Events
-
-#### Decentralized gathering
 - **[Prague Blockchain Week](http://prgblockweek.com/) - lead coordinator (2023)**
 
 #### Hackathons
