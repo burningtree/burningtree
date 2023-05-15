@@ -1,5 +1,8 @@
 # Hi there 👋, I'm `tree` 🌴
 
+## What do I love?
+[cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk), [open-source](https://en.wikipedia.org/wiki/Open-source_software), [green tea](https://en.wikipedia.org/wiki/Green_tea), [Ethereum](https://ethereum.org/), [electric unicycle](https://en.wikipedia.org/wiki/Electric_unicycle), [Deno](https://deno.com/runtime), [vim](https://www.vim.org/), [teal organizations](https://reinventingorganizationswiki.com/en/), [Europe](https://en.wikipedia.org/wiki/Europe), [pixel art](https://www.eboy.com/), [The Blaze](https://www.youtube.com/watch?v=G6K_hkVdQgw)
+
 ## How to follow or contact me?
 
 DID: `did:plc:524tuhdhh3m7li5gycdn6boe` ([did:plc](https://atproto.com/specs/did-plc))
@@ -38,10 +41,6 @@ DID: `did:plc:524tuhdhh3m7li5gycdn6boe` ([did:plc](https://atproto.com/specs/did
 - **[Web3Privacy Events](https://github.com/web3privacy/events) - co-founder; lead organizer (2023+)**
 - **[L2Loft](https://l2loft.com) - co-founder; lead organizer (2023+)**
 - [UTXO Prague](https://utxo.cz/) - co-founder; lead organizer (2022); currently inactive
-
-## What I love?
-
-[cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk), [Ethereum](https://ethereum.org/), [electic unicycle](https://en.wikipedia.org/wiki/Electric_unicycle), [Deno](https://deno.com/runtime)
 
 <!--
 **burningtree/burningtree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
