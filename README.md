@@ -14,7 +14,7 @@ DID: `did:plc:524tuhdhh3m7li5gycdn6boe` ([did:plc](https://atproto.com/specs/did
 
 [🎧](https://www.last.fm/user/burning-tree) [🍿](https://trakt.tv/users/tree)
 
-## Projects I am involved in
+## My projects
 
 ### Communities
 - **🌱 [Ethereum Event Gardeners](https://about.ethevents.club/) - community fostering open and free Ethereum events**
@@ -38,6 +38,10 @@ DID: `did:plc:524tuhdhh3m7li5gycdn6boe` ([did:plc](https://atproto.com/specs/did
 - **[Web3Privacy Events](https://github.com/web3privacy/events) - co-founder; lead organizer (2023+)**
 - **[L2Loft](https://l2loft.com) - co-founder; lead organizer (2023+)**
 - [UTXO Prague](https://utxo.cz/) - co-founder; lead organizer (2022); currently inactive
+
+## What I love?
+
+[cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk), [Ethereum](https://ethereum.org/), [electic unicycle](https://en.wikipedia.org/wiki/Electric_unicycle), [Deno](https://deno.com/runtime)
 
 <!--
 **burningtree/burningtree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
