@@ -9,11 +9,11 @@ DID: `did:plc:524tuhdhh3m7li5gycdn6boe` ([did:plc](https://atproto.com/specs/did
 
 | Work | Microblogging | Instant messenging |
 | --- | --- | --- |
-| ENS: [`treecz.eth`](https://app.ens.domains/treecz.eth)| Bluesky: [`@tree.fail`](https://staging.bsky.app/profile/did:plc:524tuhdhh3m7li5gycdn6boe) | Matrix: [`@tree:gwei.cz`](https://matrix.to/#/@tree:gwei.cz)
-| GitHub: [`@burningtree`](https://github.com/burningtree) | Twitter: [`@treecz`](https://twitter.com/treecz) | Telegram: [`@treecz`](https://t.me/treecz) |
-| Pinboard: [`u:burningtree`](https://pinboard.in/u:burningtree) | Farcaster: [`@tree`](https://fcast.me/tree) | Discord: [`tree#7466`](https://discordapp.com/users/397625533283958787) |
-| Gitea: [`git.gwei.cz/tree`](https://git.gwei.cz/tree)  | Mastodon: [`@tree@gwei.cz`](https://social.gwei.cz/@tree) | |
-| | Nostr: [`npub1k23..uwga2`](https://coracle.social/people/npub1k23nutfrjhts0f23lszraskm3dj4h7lyj4h2m7km6c26zrm7rfeqguwga2/notes) | |
+| DNS: [`tree.fail`](https://tree.fail) | Bluesky: [`@tree.fail`](https://staging.bsky.app/profile/did:plc:524tuhdhh3m7li5gycdn6boe) | Matrix: [`@tree:gwei.cz`](https://matrix.to/#/@tree:gwei.cz) |
+| ENS: [`treecz.eth`](https://app.ens.domains/treecz.eth)| Twitter: [`@treecz`](https://twitter.com/treecz) | Telegram: [`@treecz`](https://t.me/treecz) |
+| GitHub: [`@burningtree`](https://github.com/burningtree) | Farcaster: [`@tree`](https://fcast.me/tree) | Discord: [`tree#7466`](https://discordapp.com/users/397625533283958787) |
+| Pinboard: [`u:burningtree`](https://pinboard.in/u:burningtree) | Mastodon: [`@tree@gwei.cz`](https://social.gwei.cz/@tree) | |
+| Gitea: [`git.gwei.cz/tree`](https://git.gwei.cz/tree)  | Nostr: [`npub1k23..uwga2`](https://coracle.social/people/npub1k23nutfrjhts0f23lszraskm3dj4h7lyj4h2m7km6c26zrm7rfeqguwga2/notes) | |
 
 [🎧](https://www.last.fm/user/burning-tree) [🍿](https://trakt.tv/users/tree)
 
