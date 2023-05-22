@@ -5,7 +5,8 @@
 
 ## How to follow or contact me?
 
-DID: `did:plc:524tuhdhh3m7li5gycdn6boe` ([did:plc](https://atproto.com/specs/did-plc))
+* Email: `tree@tree.fail`
+* DID: `did:plc:524tuhdhh3m7li5gycdn6boe` ([did:plc](https://atproto.com/specs/did-plc))
 
 | Work | Microblogging | Instant messenging |
 | --- | --- | --- |
