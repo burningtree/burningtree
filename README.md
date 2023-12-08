@@ -1,17 +1,12 @@
 # Hi there 👋, I'm `tree` 🌴
 
-## What do I love?
-[cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk), [open-source](https://en.wikipedia.org/wiki/Open-source_software), [green tea](https://en.wikipedia.org/wiki/Green_tea), [Ethereum](https://ethereum.org/), [electric unicycle](https://en.wikipedia.org/wiki/Electric_unicycle), [Deno](https://deno.com/runtime), [vim](https://www.vim.org/), [teal organizations](https://reinventingorganizationswiki.com/en/), [Europe](https://en.wikipedia.org/wiki/Europe), [pixel art](https://www.eboy.com/), [The Blaze](https://www.youtube.com/watch?v=G6K_hkVdQgw)
-
-## How to follow or contact me?
-
 * Email: `tree@tree.fail`
 * DID: `did:plc:524tuhdhh3m7li5gycdn6boe` ([did:plc](https://atproto.com/specs/did-plc))
 
 | Work | Microblogging | Instant messenging |
 | --- | --- | --- |
 | DNS: [`tree.fail`](https://tree.fail) | Bluesky: [`@tree.fail`](https://staging.bsky.app/profile/did:plc:524tuhdhh3m7li5gycdn6boe) | Matrix: [`@tree:gwei.cz`](https://matrix.to/#/@tree:gwei.cz) |
-| ENS: [`treecz.eth`](https://app.ens.domains/treecz.eth)| Twitter: [`@treecz`](https://twitter.com/treecz) | Telegram: [`@treecz`](https://t.me/treecz) |
+| ENS: [`treecz.eth`](https://app.ens.domains/treecz.eth)| Twitter: @treecz (discontinued) | Telegram: [`@treecz`](https://t.me/treecz) |
 | GitHub: [`@burningtree`](https://github.com/burningtree) | Farcaster: [`@tree`](https://fcast.me/tree) | Discord: [`tree#7466`](https://discordapp.com/users/397625533283958787) |
 | Pinboard: [`u:burningtree`](https://pinboard.in/u:burningtree) | Mastodon: [`@tree@gwei.cz`](https://social.gwei.cz/@tree) | Urbit: [`~latsub-lodhut`](https://urbit.org/ids/~latsub-lodhut) |
 | Gitea: [`git.gwei.cz/tree`](https://git.gwei.cz/tree)  | Nostr: [`npub1k23..uwga2`](https://coracle.social/people/npub1k23nutfrjhts0f23lszraskm3dj4h7lyj4h2m7km6c26zrm7rfeqguwga2/notes) | |
