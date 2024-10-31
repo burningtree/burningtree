@@ -31,7 +31,7 @@
 - [UTXO Prague](https://utxo.cz/) (2022) - co-founder; biggest cryptocurrency conference in Czech Republic
 
 ## Past involvement
-- [Web3Privacy Now](https://web3privacy.info) - co-founder; lead event organizer (2023)
+- [Web3Privacy Now](https://web3privacy.info) (2023-2024) - co-founder; lead event organizer
 - [UTXO Foundation](https://utxo.foundation/) (2022-2023) - co-founder; non-profit organization serving as a legal backbone for events
 
 <!--
